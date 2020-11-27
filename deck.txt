@@ -1,0 +1,101 @@
+10
+Night Market Gaurd
+3
+Artifact Creature
+Night Market Guard can block an additional creature each combat 
+242
+Common
+Good
+0.02
+0.02
+6
+Momentous Fall
+2
+Instant
+You draw cards equal to the sacrificed creatures power
+197
+Rare
+Bent
+0.40
+0.50
+7
+Prodigal Sorcerer
+2
+Creature-Human Wizard
+Prodigal Sorcerer deals 1 damage to any target
+101
+Common
+Great
+0.08
+0.10
+9
+Erg Raiders
+1
+Creature-Human Warrior
+If Erg Raiders didn't attack this turn, Erg Raider deals two damage
+307
+Common
+Bent
+0.03
+0.05
+3
+Trained Jackal
+1
+Creature-Jackal
+To taunt a man into action
+155
+Common
+Great
+1.42
+1.47
+11
+Relentless Dead
+2
+Creature-Zombie
+Menace
+131
+Mythic Rare
+Great
+8.74
+8.74
+1
+Noxious Gearhulk
+6
+Artifact Creature-Construct
+Menace
+96
+Mythic Rare
+Good
+3.49
+3.49
+4
+Iron Myr
+2
+Artifact Creature-Myr
+Add 1 mana to your hand
+168
+Common
+Bent up
+.11
+.14
+14
+Plains
+N/A
+Basic Land-Plains
+N/A
+334
+Basic Land
+Great
+0.43
+0.43
+1
+Dire Fleet Captain
+2
+Creature-Orc Pirate
+Whenever Dire Fleet captain attacks, it gets +1/+1.
+221
+Uncommon
+Good
+0.02
+0.02
+10
